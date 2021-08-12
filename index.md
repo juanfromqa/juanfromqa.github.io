@@ -1,3 +1,9 @@
-# Some of my experience:
+# Who am I?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I often describe myself as a tester in a developer's body, having the mindset to break things but the toolset to propose solutions.
+
+I can ensure the quality of software while leveraging my coding abilities to build and utilize complex testing tools. I am proficient in all stages of the QA process from testing planning to post-release verification. I have worked with methodologies like Agile SCRUM and Waterfall.
+
+QA is my passion and I would like to help whoever will find my skills suitable for their projects.
+
+https://www.juanfromqa.com/
